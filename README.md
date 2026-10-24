@@ -136,6 +136,4 @@ Debug mode is **off by default** — Flask's interactive debugger can execute ar
 - **No dependency version pins** in `requirements.txt` — consider pinning versions before long-term/production use, since LangChain's package layout has changed across versions.
 - **OCR quality depends on Tesseract** being installed correctly on the host system; scanned/handwritten documents may need image pre-processing for good results.
 
-## License
 
-No license specified yet — add one (e.g. MIT) if you intend this to be reused by others.
